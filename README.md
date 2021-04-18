@@ -1,2 +1,0 @@
-# ML-practicals-
-ML practical
